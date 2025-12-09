@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1759065090 source:c:\users\kaiom\temp\ws- codeblocks\media_idade\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758360952 source:c:\users\kaiom\temp\ws- codeblocks\baskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
